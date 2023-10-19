@@ -1,0 +1,86 @@
+body{                                        /* CSS to style body of document, source- W3schools */
+	background-color: #F0F8FF;
+	margin-left:45px;
+	margin-right:78px;
+    font-family: Times New Roman, sand-serif;  /* font-family of body element, source- W3schools */
+	font-size:20px;                          /* CSS to change font size in body element, source- W3schools */
+	color: Black;
+	border:2px solid;
+	padding:30px;
+}
+h1{ margin-top: 50px;                        /* CSS to style h1 of document, source- W3schools */
+    color: rgb(219, 17, 17);
+	margin-left: 45px;
+	margin-right:100px; 
+    font-family: Algerian;                   /* CSS to style font type of h1, source- W3schools */
+    margin-bottom: 10px;
+	text-align: Center;
+	font-size: 50px;                         /* CSS to modify font size of h1 in document, source- W3schools */
+} 
+
+#MyResume {                                 /* CSS to style id attribute of document, source- W3schools */
+    color: Blue;
+    font-family: Baguet Script;
+    margin-bottom: 10px;
+	text-align: Center;
+	font-size: 25px;
+}
+
+div{
+	Background-color:rgb(207, 194, 194);      /* CSS to style <div> block element of document, source- W3schools */
+	width:97%;
+	border: 1px Black;
+	padding: 10px;
+	margin: 20px;
+}
+
+h2{
+	color:Blue;                                 /* CSS to style h2 of document, source- W3schools */
+	margin-left: 45px;
+	margin-right:100px;
+    font-family: Times New Roman, sand-serif;
+    margin-bottom:10px;
+	font-size:25px;                             /* modifies font size of h2 in document, source- W3schools */
+}
+
+p{
+	color:Black;                               /* CSS to style <p> element of document, source- W3schools */
+	margin-left: 45px;
+	margin-right:55px;
+	font-family: Times New Roman, sand-serif;
+	font-size:20px;
+	text-align: justify;                        /* aligns the text in <p> element of document, source- W3schools */
+}
+
+h4{
+	color:Black;                               /* CSS to style h4 of document, source- W3schools */
+	margin-left: 45px;
+	margin-right:100px;
+    font-family: Times New Roman, sand-serif;
+    margin-bottom:10px;
+}
+
+table, td, th {                          /* CSS to style table in document, source- W3schools */
+  border: 1px solid Black;      
+  margin-left: 45px;
+  text-align: center;                  /* aligns the text in center doc, source- W3schools */
+}
+table{
+	width: 90%;
+	border-collapse: collapse;
+}
+	
+nav {                         /* CSS to style nav bar in document, source- W3schools */
+	color: Blue;
+	text-align: Center; 
+	width: 100%;
+}
+
+.button {                                 /* CSS to style class attribute in document, source- W3schools */
+	background-color: white; 
+  color: black; 
+  padding:10px 18px;
+  text-align: center;
+  border: 3px solid Black;
+}
+  
